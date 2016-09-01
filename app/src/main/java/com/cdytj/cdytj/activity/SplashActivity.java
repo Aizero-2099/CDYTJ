@@ -1,7 +1,9 @@
-package com.cdytj.cdytj;
+package com.cdytj.cdytj.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.cdytj.cdytj.R;
 
 public class SplashActivity extends AppCompatActivity {
 
